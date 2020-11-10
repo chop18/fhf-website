@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d1398b7-c3ea-4c40-9867-c71bf4d5e4c2" name="Default Changelist" comment="" />
+    <list default="true" id="4d1398b7-c3ea-4c40-9867-c71bf4d5e4c2" name="Default Changelist" comment="Donate page finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +22,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iViFB8bjbszCJXxLHuFmfqsEud" />
   <component name="ProjectViewState">
@@ -35,9 +47,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hopaw\OneDrive\Desktop\Fall 2020\Software Eng\fhf-website\ga_blog" />
+      <recent name="C:\Users\Hopaw\OneDrive\Desktop\Fall 2020\Software Eng\fhf-website\ga_blog\_pages" />
+      <recent name="C:\Users\Hopaw\OneDrive\Desktop\Fall 2020\Software Eng\fhf-website\ga_blog\_posts" />
       <recent name="C:\Users\Hopaw\Documents\ga_blog\_assets\img" />
       <recent name="C:\Users\Hopaw\Documents\ga_blog" />
-      <recent name="C:\Users\Hopaw\Documents\ga_blog\_site" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,20 +67,54 @@
       <workItem from="1603148127009" duration="3973000" />
       <workItem from="1603397732081" duration="8597000" />
       <workItem from="1603411482086" duration="1564000" />
+      <workItem from="1603414615821" duration="649000" />
+      <workItem from="1603488533492" duration="20975000" />
+      <workItem from="1603717898172" duration="703000" />
+      <workItem from="1604539939008" duration="747000" />
+      <workItem from="1605039188499" duration="1596000" />
+      <workItem from="1605040809324" duration="605000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Donate page finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Donate page finished" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="638" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603397791054">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="638" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1603397791054" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1601999416108">
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603507491937">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1601999416108" />
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1603507491937" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1603575933770">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1603575933770" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605040742268">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1605040742268" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605039868766">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1605039868766" />
   </component>
 </project>

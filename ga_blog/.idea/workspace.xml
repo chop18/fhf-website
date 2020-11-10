@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d1398b7-c3ea-4c40-9867-c71bf4d5e4c2" name="Default Changelist" comment="Donate page finished" />
+    <list default="true" id="4d1398b7-c3ea-4c40-9867-c71bf4d5e4c2" name="Default Changelist" comment="Donate page finished">
+      <change afterPath="$PROJECT_DIR$/_layouts/landing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/landing.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AU-FHF-Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_pages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,12 +52,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hopaw\OneDrive\Desktop\Fall2020\Software Eng\fhf-website\ga_blog\_pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hopaw\OneDrive\Desktop\Fall2020\Software Eng\fhf-website\ga_blog" />
       <recent name="C:\Users\Hopaw\OneDrive\Desktop\Fall 2020\Software Eng\fhf-website\ga_blog" />
       <recent name="C:\Users\Hopaw\OneDrive\Desktop\Fall 2020\Software Eng\fhf-website\ga_blog\_pages" />
       <recent name="C:\Users\Hopaw\OneDrive\Desktop\Fall 2020\Software Eng\fhf-website\ga_blog\_posts" />
       <recent name="C:\Users\Hopaw\Documents\ga_blog\_assets\img" />
-      <recent name="C:\Users\Hopaw\Documents\ga_blog" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,7 +81,7 @@
       <workItem from="1603717898172" duration="703000" />
       <workItem from="1604539939008" duration="747000" />
       <workItem from="1605039188499" duration="1596000" />
-      <workItem from="1605040809324" duration="605000" />
+      <workItem from="1605040809324" duration="3516000" />
     </task>
     <servers />
   </component>
@@ -112,9 +121,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1605040742268" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605039868766">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605043815540">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1605039868766" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1605043815540" />
   </component>
 </project>

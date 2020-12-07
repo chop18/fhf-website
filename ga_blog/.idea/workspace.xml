@@ -11,11 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d1398b7-c3ea-4c40-9867-c71bf4d5e4c2" name="Default Changelist" comment="Donate page finished">
-      <change afterPath="$PROJECT_DIR$/_layouts/landing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/landing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/gh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/gh.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_help.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/landing.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,9 @@
       <workItem from="1603717898172" duration="703000" />
       <workItem from="1604539939008" duration="747000" />
       <workItem from="1605039188499" duration="1596000" />
-      <workItem from="1605040809324" duration="3516000" />
+      <workItem from="1605040809324" duration="7184000" />
+      <workItem from="1605226393765" duration="5019000" />
+      <workItem from="1605497180693" duration="1220000" />
     </task>
     <servers />
   </component>

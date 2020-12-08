@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61103628-fe6e-487d-940c-1a464503133c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ga_blog/volunteer.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ga_blog/_layouts/volunteer.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_layouts/volunteer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ga_blog/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/feed.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

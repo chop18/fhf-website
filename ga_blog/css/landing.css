@@ -3,8 +3,8 @@
     width: 100%
 }
 .banner-img {
-    height: 300px;
-    width: 100%;
+    height: auto;
+    width: auto;
 }
 
 body{

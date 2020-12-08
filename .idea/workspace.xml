@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61103628-fe6e-487d-940c-1a464503133c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ga_blog/assets/img/joel-muniz-A4Ax1ApccfA-unsplash.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ga_blog/_layouts/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_layouts/landing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/assets/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/assets/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/jekyll/update/2020/10/06/welcome-to-jekyll.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/jekyll/update/2020/10/06/welcome-to-jekyll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ga_blog/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ga_blog/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ga_blog/assets/img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

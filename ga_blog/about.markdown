@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
+The pandemic has disrupted life for everyone, but it has had a particularly harsh impact on our neighbors in need – many of whom were already struggling with access to healthy and nutritious meals. We aim to provide our families with a moment of healing and hope that helps address kids' emotional needs as well as their physical ones. Please support our mission in whatever way you can to keep our children happy and healthy!
 
+Our Mission: Support small businesses in our community and safely deliver nourishing meals to our children and neighbors who need them the most.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus molestie odio id odio pellentesque, sed ornare nulla pulvinar. Sed laoreet suscipit mauris, sit amet consequat felis ultricies eget. Integer eget placerat elit. Ut ac sollicitudin libero. Praesent elementum neque non tellus tristique consectetur. Sed et nibh nisi. Nam porta ipsum a lorem viverra facilisis. Proin elementum turpis neque, vitae cursus velit aliquam quis. Sed ut tortor nec nibh tristique pulvinar. Pellentesque tempus, lorem eget aliquet molestie, ante ex aliquet metus, sed laoreet justo mi id mauris. In neque dolor, pulvinar at gravida ac, tristique vitae ante. Duis eu ultricies odio.
 

@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61103628-fe6e-487d-940c-1a464503133c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/jekyll/update/2020/10/06/welcome-to-jekyll.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/jekyll/update/2020/10/06/welcome-to-jekyll.html" afterDir="false" />
-    </list>
+    <list default="true" id="61103628-fe6e-487d-940c-1a464503133c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lMA9igZoK8pMAvpy06GjRIRY17" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

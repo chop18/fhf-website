@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61103628-fe6e-487d-940c-1a464503133c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ga_blog/Donate.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/Donate.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ga_blog/_layouts/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_layouts/landing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/assets/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/assets/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ga_blog/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ga_blog/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/jekyll/update/2020/10/06/welcome-to-jekyll.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/jekyll/update/2020/10/06/welcome-to-jekyll.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/about.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/css/donation.css" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/css/donation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/css/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/css/landing.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607396436349</updated>
       <workItem from="1607396437451" duration="658000" />
-      <workItem from="1607398431863" duration="2790000" />
+      <workItem from="1607398431863" duration="3072000" />
     </task>
     <servers />
   </component>

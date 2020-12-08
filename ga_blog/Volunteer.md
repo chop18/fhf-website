@@ -1,5 +1,6 @@
 ---
-layout: "gh"
+layout: "page"
 title: Volunteer
 permalink: /volunteer/
 ---
+

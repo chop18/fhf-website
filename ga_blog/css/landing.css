@@ -3,8 +3,8 @@
     width: 100%
 }
 .banner-img {
-    height: 300px;
-    width: 100%;
+    height: auto;
+    width: auto;
 }
 
 body{
@@ -24,3 +24,15 @@ p{
     text-align: justify;
 }
 
+
+
+
+.buttons {
+    width: auto;
+    height: 90px;
+}
+
+.action_btn {
+    width: auto;
+    height: 90px;
+}

@@ -10,14 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d1398b7-c3ea-4c40-9867-c71bf4d5e4c2" name="Default Changelist" comment="Donate page finished">
-      <change afterPath="$PROJECT_DIR$/_layouts/gh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/gh.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_help.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/landing.html" afterDir="false" />
-    </list>
+    <list default="true" id="4d1398b7-c3ea-4c40-9867-c71bf4d5e4c2" name="Default Changelist" comment="Donate page finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +24,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1iViFB8bjbszCJXxLHuFmfqsEud" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,13 +37,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -82,9 +78,9 @@
       <workItem from="1603717898172" duration="703000" />
       <workItem from="1604539939008" duration="747000" />
       <workItem from="1605039188499" duration="1596000" />
-      <workItem from="1605040809324" duration="7184000" />
-      <workItem from="1605226393765" duration="5019000" />
-      <workItem from="1605497180693" duration="1220000" />
+      <workItem from="1605040809324" duration="3516000" />
+      <workItem from="1607377026842" duration="72000" />
+      <workItem from="1607380528881" duration="5357000" />
     </task>
     <servers />
   </component>
@@ -120,6 +116,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.16.3440.1440@0.0.1920.1080" timestamp="1603575933770" />
+    <state x="-1451" y="188" key="SettingsEditor" timestamp="1607380565374">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1451" y="188" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080/1440.0.1920.1080@-1920.0.1920.1080" timestamp="1607380565374" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605040742268">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

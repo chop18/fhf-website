@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61103628-fe6e-487d-940c-1a464503133c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ga_blog/index.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ga_blog/_layouts/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_layouts/landing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ga_blog/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ga_blog/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ga_blog/_site/assets/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/assets/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ga_blog/_site/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ga_blog/_site/jekyll/update/2020/10/06/welcome-to-jekyll.html" beforeDir="false" afterPath="$PROJECT_DIR$/ga_blog/_site/jekyll/update/2020/10/06/welcome-to-jekyll.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
